@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Dashboard Example</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.sidebar {
+  height: 100%;
+  width: 250px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color:rgb(0, 255, 255);
+  padding-top: 20px;
+}
+
+.sidebar a {
+  padding: 10px 15px;
+  text-decoration: none;
+  font-size: 18px;
+  color: white;
+  display: block;
+}
+
+.sidebar a:hover {
+  background-color: #555;
+}
+
+.main-content {
+  margin-left: 250px; /* Same as the width of the sidebar */
+  padding: 20px;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the sidebar and the main content stack on top of each other */
+@media screen and (max-width: 600px) {
+  .sidebar {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  .sidebar a {
+    float: left;
+  }
+  .main-content {
+    margin-left: 0;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="sidebar">
+  <a href="#">Dashboard</a>
+  <a href="#">Reports</a>
+  <a href="#">Analytics</a>
+  <a href="#">Settings</a>
+</div>
+
+<div class="main-content">
+  <h1>Welcome User1</h1> <hr>
+  <p> 
+    <br> <b> MEDICAL HISTORY:</b><br> <br>
+    1. Adult Illnesses:   <br> <br>
+    a. Polycythemia Vera – diagnosed incidentally three years ago. Currently asymptomatic and treated every 6 months with phlebotomy. <br>
+    b. Hypercholesterolemia – diagnosed by screening two years ago. Treated with ‘statin’ medication. <br>
+    2. Health Screening: colonoscopy at LUMC 2009, no polyps <br>
+    3. Immunizations – tetanus booster in 2016 <br>
+    4. Obstetric & Gynecologic History – N/A <br> 
+    5. Psychiatric Illnesses or Hospitalizations - none <br>
+    6. Significant Childhood Illnesses - none <br>
+    
+    </p>
+<br> <br>
+
+    Based on the provided medical history, potential future health concerns include: <br>
+
+<strong>Cardiovascular Risk:</strong> Due to conditions like Polycythemia Vera and Hypercholesterolemia, there's an increased risk of heart disease and stroke.
+<br>
+<strong>Blood Clot Risk:</strong> Polycythemia Vera may elevate the risk of blood clots, necessitating monitoring and management.
+<br>
+<strong>Continued Colorectal Health Monitoring:</strong> Regular screenings are needed despite no polyps found in 2009.
+<br>
+<strong>Management of Hypercholesterolemia:</strong> Consistent use of statins is vital to control cholesterol levels and reduce cardiovascular risks.
+
+
+</div>
+
+</body>
+</html>
