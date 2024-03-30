@@ -1,6 +1,6 @@
 # Mozohack-24
 
- Project Dr.Insigth website This project is based on a Healthcare service in this project and the technology is used here is php
+ Project Dr.Insight website This project is based on a Healthcare service in this project and the technology is used here is php
 
 In this site we have these features and services
 
