@@ -1,9 +1,8 @@
 # Mozohack-24
 
-[11:37 AM, 3/30/2024] Nehal Balakumar SRM: Project Dr.Insigth website This project is based on a Healthcare service in this project and the technology is used here is php
+ Project Dr.Insigth website This project is based on a Healthcare service in this project and the technology is used here is php
 
-Main Heading
-[11:38 AM, 3/30/2024] Nehal Balakumar SRM: In this site we have these features and services
+In this site we have these features and services
 
 Responsive Navbar
 user Navigation
@@ -13,47 +12,52 @@ Services list and images with details
 Doctors list
 Appointment page
 Responsive Footer
-[11:40 AM, 3/30/2024] Nehal Balakumar SRM: The techstack uses in this project:
 
-HTML
-CSS
-JavaScript
-PHP
-Freepik
-Versel
-NGrok
-[11:43 AM, 3/30/2024] Nehal Balakumar SRM: The techstack used for AI Development
+The techstack used in this project:
 
-Python
-TensorFlow
-PyTorch
+i) HTML
+ii) CSS
+iii) JavaScript
+iv) PHP
+v) Freepik
+vi) Versel
+vii) NGrok
 
-The libraries used is
-NLTK
-spaCy
-Scikit-learn
-[11:45 AM, 3/30/2024] Nehal Balakumar SRM: The techstack used for Data Analytics Module 
+The techstack used for AI Development
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+i) Python
+ii) TensorFlow
+iii) PyTorch
 
 The libraries used is
-SciPy
-Scikit-Learn
-TensorFlow Probability
-[11:47 AM, 3/30/2024] Nehal Balakumar SRM: The techstack used for Server Data Security Module
+i) NLTK
+ii) spaCy
+iii) Scikit-learn
 
-Node.js
-Express.js
-MongoDB
+The techstack used for Data Analytics Module 
+
+i) Python
+ii) Pandas
+iii) NumPy
+iv) Matplotlib
+v) Seaborn
 
 The libraries used is
-bcrypt.js
-JSON Web Token(JWT)
-Passport.js
+i) SciPy
+ii) Scikit-Learn
+iii) TensorFlow Probability
+
+The techstack used for Server Data Security Module
+
+i) Node.js
+ii) Express.js
+iii) MongoDB
+
+The libraries used is
+i) bcrypt.js
+ii) JSON Web Token(JWT)
+iii) Passport.js
+
 ![WhatsApp Image 2024-03-30 at 11 34 03 AM](https://github.com/dbarua1020/Mozohack-24/assets/99043833/b03be8d5-b1f9-43eb-92f1-b88764a72932)
 
 ![WhatsApp Image 2024-03-30 at 11 34 03 AM (1)](https://github.com/dbarua1020/Mozohack-24/assets/99043833/cf63612c-7e02-4433-9b08-b2c307aef6e3)
